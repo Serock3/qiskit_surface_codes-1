@@ -242,7 +242,7 @@ class SurfaceCode:
             as required for extraction of nodes with errors to be sent to the decoder
         Additional information:
             The circuits must be executed outside of this class, so that
-            their is full freedom to compile, choose a backend, use a
+            there is full freedom to compile, choose a backend, use a
             noise model, etc. The results from these executions should then
             be used to create the input for this method.
         """
